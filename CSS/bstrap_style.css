@@ -1,0 +1,13 @@
+header {
+    background-color: aliceblue;
+    height: 100px;
+}
+
+nav {
+    background-color: aliceblue;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
